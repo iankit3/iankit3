@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Web
 - 🌱 I’m currently learning ... Scala/Svelte
-- 👯 I’m looking to collaborate on ... Javascript, Reactjs, Nodejs
+- 👯 I’m looking to collaborate on ... LLM inference, RL
 - 💬 Ask me about ... Web
 - 📫 How to reach me: ... @iankit3
 - 😄 Pronouns: ... He/him
